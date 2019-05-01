@@ -5,6 +5,7 @@
   --azulito:#149dcc;
   --rosita: #ffbebd;
   --azul:#2f496e;
+  --bronce:#dc7213;
    }
 
 
@@ -454,23 +455,23 @@ body {
 .btn-white-outline:active,
 .btn-white-outline.active {
   background:none;
-  border-color: #ffffff;
+  border-color: #dfb509;
   color: #ffffff;
 }
 .btn-send{
-  background:#ffbebd;
-  border-color: #ffffff;
-  color: #ffffff;
+  background:transparent;
+  border-color: #dfb509;
+  color: #fff;
 }
 .btn-send:hover{
   background: #fcfcfa;
-  color: var(--rosita);
+  color: #dfb509;
 }
 .btn-white-outline:hover,
 .btn-white-outline:focus,
 .btn-white-outline.focus {
   color: #333333;
-  background-color: #ffffff;
+  background-color:#dfb509;
   border-color: #ffffff;
 }
 .text-primary {
@@ -1387,18 +1388,18 @@ body {
   display: none;
 }
 .cid-rf9lwlzZkc {
-  background-image: url("../../../assets/images/leadspace-954676476-1400x933.jpg");
+  background-image: url("../../../assets/images/astronomy-cosmos-exploration-700015.jpg");
 }
 .cid-rf9lwlzZkc H3 {
-  color: var(--azul);
+  color: var(--bronce);
 }
 .a{
-  color:#1a405f;
+  color: var(--bronce);
 }
 .cid-rf9oX2NhaR {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: var(--azulito);
+  background: #002C54;
 }
 @media (min-width: 992px) {
   .cid-rf9oX2NhaR .mbr-figure {
@@ -1642,7 +1643,7 @@ body {
 .cid-rf9nObompf {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: #2f496e;
+  background: #002C54;
 }
 @media (min-width: 992px) {
   .cid-rf9nObompf .mbr-figure {
@@ -1669,7 +1670,7 @@ body {
 .cid-qGVekqroHT {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #2f496e;
+  background-color: #16253d;
 }
 .cid-qGVekqroHT .mbr-iconfont {
   font-size: 48px;
@@ -1907,7 +1908,7 @@ body {
 .cid-qWLeoBx5Hr {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2f496e!important;
+  background-color: #16253d!important;
 }
 .cid-qWLeoBx5Hr .row-links {
   width: 100%;

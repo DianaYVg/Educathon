@@ -6,6 +6,15 @@
  :root{
 --azulito:#149dcc;
 --rosita: #ffbebd;
+--bronce:#cd7213;
+--azul:#002c54;
+--dorado:#dfb509;
+ }
+ .bronce{
+   color:var(--bronce)!important;
+ }
+ .azul{
+   color: var(--azul)!important;
  }
 section {
   background-color: #eeeeee; }
@@ -338,11 +347,11 @@ nav .mbr-section-btn {
   width: 60px;
   height: 60px;
   cursor: pointer;
-  background-color: var(--rosita);
+  background-color: transparent;
   opacity: 0.9;
   /*background-image: linear-gradient(#ffbebd,#fcfcf4);*/
   border-radius: 50%;
-  border:none;
+  border: 2px solid #dfb509;
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%); }
   .mbr-arrow > a {
