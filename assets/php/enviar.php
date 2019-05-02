@@ -1,8 +1,8 @@
 <?php
 	$destino="dyvelazquez1@gmail.com";
 	$nombre =$_POST["name"];
-	$correo=$_POST["email"];
-	$mensaje=$_POST["message"];
+	$correo=$_POST["mail"];
+	$mensaje=$_POST["mensaje"];
 	$universidad=$_POST["universidad"];
 
 
